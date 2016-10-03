@@ -22,8 +22,8 @@ This set of configs is based off of [`eslint-config-strict`](https://github.com/
 
 This package includes the following configurations:
 
-- `dc/es6` (uses `eslint-config-strict/es6` with a few tweaks)
 - `dc` (alias for `dc/es6`)
+- `dc/es6` (uses `eslint-config-strict/es6` with a few tweaks)
 - `dc/browser` (simply sets `env.browser` to true)
 - `dc/jest` (sets `jest` globals)
 
