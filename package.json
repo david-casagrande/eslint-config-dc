@@ -1,0 +1,13 @@
+{
+  "name": "eslint-config-dc",
+  "version": "1.0.0",
+  "description": "David Casagrande's eslint config",
+  "main": "es6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dncasagrande@gmail.com",
+  "dependencies": {
+    "eslint-config-strict": "^9.1.0"
+  }
+}
