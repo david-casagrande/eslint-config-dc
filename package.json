@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-dc",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "David Casagrande's eslint config",
   "main": "es6.js",
   "scripts": {
@@ -8,6 +8,6 @@
   },
   "author": "dncasagrande@gmail.com",
   "dependencies": {
-    "eslint-config-strict": "^9.1.0"
+    "eslint-config-strict": "^13.0.0"
   }
 }
