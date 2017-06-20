@@ -8,6 +8,6 @@
   },
   "author": "dncasagrande@gmail.com",
   "dependencies": {
-    "eslint-config-strict": "^9.1.0"
+    "eslint-config-strict": "^13.0.0"
   }
 }
